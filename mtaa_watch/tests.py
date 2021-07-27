@@ -34,9 +34,6 @@ class PostTestClass(TestCase):
     def test_instance(self):
         self.assertTrue(isinstance(self.post,Post))
 
-
-      
-
     def tearDown(self):
         Neighborhood.objects.all().delete()
         Post.objects.all().delete()

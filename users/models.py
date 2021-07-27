@@ -10,7 +10,7 @@ neighborhood = (
         ('3', 'The Park'),
         ('4', 'BEACH'),
         ('5', 'BMW'),
-        ('6', 'Deer')
+        ('6', 'Deer'),
         )
 
 
