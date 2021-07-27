@@ -5,12 +5,13 @@ from cloudinary.models import CloudinaryField
 
 
 neighborhood = (
-        ('1', 'Red Ville'),
-        ('2', 'Green View'),
+        ('1', 'Vaal'),
+        ('2', 'Red Cross'),
         ('3', 'The Park'),
         ('4', 'BEACH'),
         ('5', 'BMW'),
         ('6', 'Deer'),
+        ('7', 'Kenya Police'),
         )
 
 
